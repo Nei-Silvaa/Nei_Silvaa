@@ -49,7 +49,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> </a> 
 </div>
 
-
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+| # | Project | Category | Description |
+|---|---------|----------|--------------|
+| 01 | [Incident Report Analysis](./projects/01-incident-report-analysis) | Incident Response | Documented analysis of a security incident: detection, investigation, and reporting. |
+| 02 | [Linux File Permissions](./projects/02-linux-file-permissions) | Access Control | Hands-on lab configuring and auditing file permissions on Linux. |
+| 03 | [Linux User Management](./projects/03-linux-user-management) | Access Control | Creating and managing user accounts and privileges via Linux commands. |
+
+## Contact
+
+- Email: Neider2530@gmail.com
