@@ -23,4 +23,6 @@ Analyze a documented security incident from detection through resolution, applyi
 - *(1–2 lessons learned or process improvements identified)*
 
 ## Files
-- `incident-report-analysis.pdf` — full write-up *(export your Google Doc as PDF and place it here)*
+- `incident-report-analysis.pdf[[Incident report analysis.pdf](https://github.com/user-attachments/files/30862416/Incident.report.analysis.pdf)
+]()
+` — full write-up *(export your Google Doc as PDF and place it here)*
