@@ -12,45 +12,43 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| IT Governance and Compliance Support          | <a href="https://google.com">Detection Lab</a>|
+| Security Incident Detection and Response      | <a href="https://google.com">Detection Lab</a>|
+| Network Security Monitoring & Vulnerability Operations     | SOC Automation Lab|
+| Vulnerability Assessment and Risk Prioritization      | SOC Automation Lab|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-tcpdump-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Firewalls-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-VPN-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Proxy_Servers-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-IDS_%2F_IPS-2C3E50?style=for-the-badge" /> </div>
 
 ### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
+<div> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-SOAR-1D9E75?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Playbooks-1D9E75?style=for-the-badge" /> </div>
+
+## Frameworks & Risk Managemen
+
+<div> 
+<img src="https://img.shields.io/badge/-CISSP-D85A30?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/-NIST_CSF_%2F_RMF-D85A30?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CIA_Triad-D85A30?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/-Security_Audit-D85A30?style=for-the-badge" /> 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+<div> 
+<a href="https://coursera.org/share/f56888d2f24707a79db17ee06bbfe8cb"> 
+<img src="https://img.shields.io/badge/-Connect_and_Protect%3A_Networks_and_Network_Security-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> </a> 
+<a href="https://coursera.org/share/c72f27f25881901ec880edc53b3f5d7d"> 
+<img src="https://img.shields.io/badge/-Play_It_Safe%3A_Manage_Security_Risks-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> </a> 
+<a href="https://coursera.org/share/70969659eb608009edb6381f90dedebf"> 
+<img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> </a> 
 </div>
+
 
 ## Projects
 - Detection Lab
