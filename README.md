@@ -41,11 +41,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div> 
-<a href="https://coursera.org/share/f56888d2f24707a79db17ee06bbfe8cb"> 
+<a href="https://coursera.org/share/70969659eb608009edb6381f90dedebf"> 
 <img src="https://img.shields.io/badge/-Connect_and_Protect%3A_Networks_and_Network_Security-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> </a> 
 <a href="https://coursera.org/share/c72f27f25881901ec880edc53b3f5d7d"> 
 <img src="https://img.shields.io/badge/-Play_It_Safe%3A_Manage_Security_Risks-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> </a> 
-<a href="https://coursera.org/share/70969659eb608009edb6381f90dedebf"> 
+<a href="https://coursera.org/share/f56888d2f24707a79db17ee06bbfe8cb"> 
 <img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> </a> 
 </div>
 
