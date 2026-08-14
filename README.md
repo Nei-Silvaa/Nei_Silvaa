@@ -20,23 +20,36 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-### Network
+## Tools
 
-<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-tcpdump-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Firewalls-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-VPN-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Proxy_Servers-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/-IDS_%2F_IPS-2C3E50?style=for-the-badge" /> </div>
+### Network
+<div>
+    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+    <a href="https://www.tcpdump.org/"><img src="https://img.shields.io/badge/-tcpdump-2C3E50?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/-Firewalls-2C3E50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-VPN-2C3E50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Proxy_Servers-2C3E50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-IDS_%2F_IPS-2C3E50?style=for-the-badge" />
+</div>
 
 ### SIEM
-
-<div> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-SOAR-1D9E75?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Playbooks-1D9E75?style=for-the-badge" /> </div>
-
-## Frameworks & Risk Managemen
-
-<div> 
-<img src="https://img.shields.io/badge/-CISSP-D85A30?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/-NIST_CSF_%2F_RMF-D85A30?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CIA_Triad-D85A30?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/-Security_Audit-D85A30?style=for-the-badge" /> 
+<div>
+    <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+    <a href="https://cloud.google.com/chronicle"><img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?style=for-the-badge&logo=Google&logoColor=white" /></a>
+    <a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/-SOAR-1D9E75?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Playbooks-1D9E75?style=for-the-badge" />
 </div>
+
+### Frameworks & Risk Management
+<div>
+    <a href="https://www.isc2.org/certifications/cissp"><img src="https://img.shields.io/badge/-CISSP-D85A30?style=for-the-badge" /></a>
+    <a href="https://www.nist.gov/cyberframework"><img src="https://img.shields.io/badge/-NIST_CSF_%2F_RMF-D85A30?style=for-the-badge" /></a>
+    <a href="https://owasp.org/"><img src="https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/-CIA_Triad-D85A30?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Security_Audit-D85A30?style=for-the-badge" />
+</div>
+
 
 ## Certifications
 
