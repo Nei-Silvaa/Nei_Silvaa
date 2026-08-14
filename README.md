@@ -20,8 +20,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-## Tools
-
 ### Network
 <div>
     <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
